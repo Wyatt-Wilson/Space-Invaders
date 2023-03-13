@@ -1,0 +1,61 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (SnakeGame.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  glad.c
+  EBO.cpp
+  shaderClass.cpp
+  Source.cpp
+C:\Users\thatw\source\repos\ComputerGraphics\SpaceInvaders\SnakeGame\Source.cpp(47,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\thatw\source\repos\ComputerGraphics\SpaceInvaders\SnakeGame\Source.cpp(48,29): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\thatw\source\repos\ComputerGraphics\SpaceInvaders\SnakeGame\Source.cpp(49,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\thatw\source\repos\ComputerGraphics\SpaceInvaders\SnakeGame\Source.cpp(50,27): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\thatw\source\repos\ComputerGraphics\SpaceInvaders\SnakeGame\Source.cpp(51,24): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\thatw\source\repos\ComputerGraphics\SpaceInvaders\SnakeGame\Source.cpp(52,24): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\thatw\source\repos\ComputerGraphics\SpaceInvaders\SnakeGame\Source.cpp(53,20): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\thatw\source\repos\ComputerGraphics\SpaceInvaders\SnakeGame\Source.cpp(54,23): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\thatw\source\repos\ComputerGraphics\SpaceInvaders\SnakeGame\Source.cpp(55,32): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\thatw\source\repos\ComputerGraphics\SpaceInvaders\SnakeGame\Source.cpp(56,33): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\thatw\source\repos\ComputerGraphics\SpaceInvaders\SnakeGame\Source.cpp(57,30): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\thatw\source\repos\ComputerGraphics\SpaceInvaders\SnakeGame\Source.cpp(58,32): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\thatw\source\repos\ComputerGraphics\SpaceInvaders\SnakeGame\Source.cpp(59,27): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\thatw\source\repos\ComputerGraphics\SpaceInvaders\SnakeGame\Source.cpp(61,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\thatw\source\repos\ComputerGraphics\SpaceInvaders\SnakeGame\Source.cpp(63,34): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\thatw\source\repos\ComputerGraphics\SpaceInvaders\SnakeGame\Source.cpp(64,35): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\thatw\source\repos\ComputerGraphics\SpaceInvaders\SnakeGame\Source.cpp(65,31): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\thatw\source\repos\ComputerGraphics\SpaceInvaders\SnakeGame\Source.cpp(66,34): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\thatw\source\repos\ComputerGraphics\SpaceInvaders\SnakeGame\Source.cpp(67,24): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\thatw\source\repos\ComputerGraphics\SpaceInvaders\SnakeGame\Source.cpp(68,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\thatw\source\repos\ComputerGraphics\SpaceInvaders\SnakeGame\Source.cpp(69,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\thatw\source\repos\ComputerGraphics\SpaceInvaders\SnakeGame\Source.cpp(70,24): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\thatw\source\repos\ComputerGraphics\SpaceInvaders\SnakeGame\Source.cpp(71,23): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\thatw\source\repos\ComputerGraphics\SpaceInvaders\SnakeGame\Source.cpp(72,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\thatw\source\repos\ComputerGraphics\SpaceInvaders\SnakeGame\Source.cpp(73,21): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\thatw\source\repos\ComputerGraphics\SpaceInvaders\SnakeGame\Source.cpp(74,24): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\thatw\source\repos\ComputerGraphics\SpaceInvaders\SnakeGame\Source.cpp(75,27): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\thatw\source\repos\ComputerGraphics\SpaceInvaders\SnakeGame\Source.cpp(76,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\thatw\source\repos\ComputerGraphics\SpaceInvaders\SnakeGame\Source.cpp(77,24): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\thatw\source\repos\ComputerGraphics\SpaceInvaders\SnakeGame\Source.cpp(78,26): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\thatw\source\repos\ComputerGraphics\SpaceInvaders\SnakeGame\Source.cpp(79,27): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\thatw\source\repos\ComputerGraphics\SpaceInvaders\SnakeGame\Source.cpp(80,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\thatw\source\repos\ComputerGraphics\SpaceInvaders\SnakeGame\Source.cpp(81,27): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\thatw\source\repos\ComputerGraphics\SpaceInvaders\SnakeGame\Source.cpp(82,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+  stb.cpp
+  Texture.cpp
+  VAO.cpp
+C:\Users\thatw\source\repos\ComputerGraphics\SpaceInvaders\SnakeGame\VAO.cpp(11,66): warning C4244: 'argument': conversion from 'GLsizeiptr' to 'GLsizei', possible loss of data
+  VBO.cpp
+  Generating Code...
+glfw3.lib(context.obj) : warning LNK4099: PDB 'glfw3.pdb' was not found with 'glfw3.lib(context.obj)' or at 'C:\Users\thatw\source\repos\ComputerGraphics\SpaceInvaders\x64\Debug\glfw3.pdb'; linking object as if no debug info
+glfw3.lib(init.obj) : warning LNK4099: PDB 'glfw3.pdb' was not found with 'glfw3.lib(init.obj)' or at 'C:\Users\thatw\source\repos\ComputerGraphics\SpaceInvaders\x64\Debug\glfw3.pdb'; linking object as if no debug info
+glfw3.lib(input.obj) : warning LNK4099: PDB 'glfw3.pdb' was not found with 'glfw3.lib(input.obj)' or at 'C:\Users\thatw\source\repos\ComputerGraphics\SpaceInvaders\x64\Debug\glfw3.pdb'; linking object as if no debug info
+glfw3.lib(monitor.obj) : warning LNK4099: PDB 'glfw3.pdb' was not found with 'glfw3.lib(monitor.obj)' or at 'C:\Users\thatw\source\repos\ComputerGraphics\SpaceInvaders\x64\Debug\glfw3.pdb'; linking object as if no debug info
+glfw3.lib(vulkan.obj) : warning LNK4099: PDB 'glfw3.pdb' was not found with 'glfw3.lib(vulkan.obj)' or at 'C:\Users\thatw\source\repos\ComputerGraphics\SpaceInvaders\x64\Debug\glfw3.pdb'; linking object as if no debug info
+glfw3.lib(window.obj) : warning LNK4099: PDB 'glfw3.pdb' was not found with 'glfw3.lib(window.obj)' or at 'C:\Users\thatw\source\repos\ComputerGraphics\SpaceInvaders\x64\Debug\glfw3.pdb'; linking object as if no debug info
+glfw3.lib(win32_init.obj) : warning LNK4099: PDB 'glfw3.pdb' was not found with 'glfw3.lib(win32_init.obj)' or at 'C:\Users\thatw\source\repos\ComputerGraphics\SpaceInvaders\x64\Debug\glfw3.pdb'; linking object as if no debug info
+glfw3.lib(win32_joystick.obj) : warning LNK4099: PDB 'glfw3.pdb' was not found with 'glfw3.lib(win32_joystick.obj)' or at 'C:\Users\thatw\source\repos\ComputerGraphics\SpaceInvaders\x64\Debug\glfw3.pdb'; linking object as if no debug info
+glfw3.lib(win32_monitor.obj) : warning LNK4099: PDB 'glfw3.pdb' was not found with 'glfw3.lib(win32_monitor.obj)' or at 'C:\Users\thatw\source\repos\ComputerGraphics\SpaceInvaders\x64\Debug\glfw3.pdb'; linking object as if no debug info
+glfw3.lib(win32_time.obj) : warning LNK4099: PDB 'glfw3.pdb' was not found with 'glfw3.lib(win32_time.obj)' or at 'C:\Users\thatw\source\repos\ComputerGraphics\SpaceInvaders\x64\Debug\glfw3.pdb'; linking object as if no debug info
+glfw3.lib(win32_thread.obj) : warning LNK4099: PDB 'glfw3.pdb' was not found with 'glfw3.lib(win32_thread.obj)' or at 'C:\Users\thatw\source\repos\ComputerGraphics\SpaceInvaders\x64\Debug\glfw3.pdb'; linking object as if no debug info
+glfw3.lib(win32_window.obj) : warning LNK4099: PDB 'glfw3.pdb' was not found with 'glfw3.lib(win32_window.obj)' or at 'C:\Users\thatw\source\repos\ComputerGraphics\SpaceInvaders\x64\Debug\glfw3.pdb'; linking object as if no debug info
+glfw3.lib(wgl_context.obj) : warning LNK4099: PDB 'glfw3.pdb' was not found with 'glfw3.lib(wgl_context.obj)' or at 'C:\Users\thatw\source\repos\ComputerGraphics\SpaceInvaders\x64\Debug\glfw3.pdb'; linking object as if no debug info
+glfw3.lib(egl_context.obj) : warning LNK4099: PDB 'glfw3.pdb' was not found with 'glfw3.lib(egl_context.obj)' or at 'C:\Users\thatw\source\repos\ComputerGraphics\SpaceInvaders\x64\Debug\glfw3.pdb'; linking object as if no debug info
+glfw3.lib(osmesa_context.obj) : warning LNK4099: PDB 'glfw3.pdb' was not found with 'glfw3.lib(osmesa_context.obj)' or at 'C:\Users\thatw\source\repos\ComputerGraphics\SpaceInvaders\x64\Debug\glfw3.pdb'; linking object as if no debug info
+  SnakeGame.vcxproj -> C:\Users\thatw\source\repos\ComputerGraphics\SpaceInvaders\x64\Debug\SpaceInvaders.exe
